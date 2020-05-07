@@ -1,12 +1,12 @@
 # README.md
 
-    
+    <%= description %>
 
 ## install
 
 ```bash
-yarn add ws-jetbrains
-yarn-tool add ws-jetbrains
-yt add ws-jetbrains
+yarn add <%= name %>
+yarn-tool add <%= name %>
+yt add <%= name %>
 ```
 
